@@ -14,7 +14,7 @@ I am currently seeking full-time opportunities as an:
 
 ## About Me
 
-- 🎓 PhD Candidate, University of Southern California (Expected Graduation: 2026)
+- 🎓 PhD Candidate, University of Southern California 
 - 🧠 8+ years of research experience spanning deep learning, computer vision, and medical imaging
 - 📄 First-author publications in PNAS, GeroScience, Neuroinformatics and other leading venues
 - ☁️ Experience building ML pipelines on AWS, Linux GPU clusters, and NVIDIA A100 hardware
@@ -51,7 +51,6 @@ Features include
 - automated preprocessing
 - reproducible workflows
 
-
 ---
 
 # Research Experience
@@ -82,7 +81,7 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 Open-source software for configurable DICOM de-identification with multiple anonymization levels.
 
-🔗 https://github.com/nikhilcusc/DICOMAnon
+🔗 [GitHub Link](https://github.com/nikhilcusc/DICOMAnon)
 
 ---
 
@@ -137,5 +136,5 @@ https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en
 
 # Contact
 
-- Email: nikhilc@usc.edu
+- Email: nikhilc [ at ] usc. edu 
 - LinkedIn: https://linkedin.com/in/nikhil-chaudhari95
