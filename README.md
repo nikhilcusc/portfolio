@@ -42,16 +42,6 @@ Designed and released a **TensorFlow-based deep learning model** for global brai
 🔗 [GitHub](https://github.com/irimia-laboratory/USC_BA_estimator/tree/v2)
 
 ---
-## Medical Imaging Pipeline
-
-End-to-end pipeline for preprocessing, training, evaluation and inference on large neuroimaging datasets.
-
-Features include
-
-- distributed training
-- experiment management
-- automated preprocessing
-- reproducible workflows
 
 ## DICOM Anonymizer
 
