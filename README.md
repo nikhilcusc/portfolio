@@ -1,7 +1,7 @@
 
 PhD Candidate in Viterbi School of Engineering at the University of Southern California.
 
-I develop machine learning systems for medical imaging, generative AI, computer vision, and scientific computing. My research focuses on deep learning for neuroimaging, explainable AI, diffusion models, and large-scale GPU training.
+I develop machine learning systems for computer vision, medical imaging, xAI, and scientific computing. My current research focuses on deep learning for explainable (x)AI and neuroimaging.
 
 
 ---
@@ -21,11 +21,11 @@ I develop machine learning systems for medical imaging, generative AI, computer 
 
 ## Local Brain Age Prediction
 
-Deep neural network for estimating biological brain age from structural MRI with explainability using Integrated Gradients.
+Improved upon a global brain age prediction model by developing a deep learning–based local brain age estimation framework that predicts regional biological brain age from structural MRI, offering more interpretable and sensitive assessment of localized brain aging.
 
 **Highlights**
 
-- 3D CNN models
+- Autoencoder models
 - MRI preprocessing
 - Explainable AI
 - Large-scale GPU training
@@ -35,7 +35,7 @@ Deep neural network for estimating biological brain age from structural MRI with
 ---
 ## Brain Age Estimation
 
-Designed and released a reproducible **TensorFlow-based deep learning model** for brain age prediction from structural MRI, emphasizing generalizability across datasets and reproducible research.
+Designed and released a **TensorFlow-based deep learning model** for global brain age prediction from structural MRI, emphasizing generalizability across datasets.
 
 **Tech:** TensorFlow, Python, Medical Imaging, MRI, Deep Learning
 
@@ -53,7 +53,7 @@ Features include
 - automated preprocessing
 - reproducible workflows
 
-### DICOM Anonymizer
+## DICOM Anonymizer
 
 Open-source software for configurable DICOM de-identification with multiple anonymization levels.
 
@@ -80,7 +80,6 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 - Managed cloud-based neuroimaging workflows using AWS EC2 and S3
 - Configured Linux GPU servers including NVIDIA A100 systems
 - Built reproducible research pipelines using PyTorch and TensorFlow
-
 
 ---
 
