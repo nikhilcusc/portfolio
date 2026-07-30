@@ -1,12 +1,8 @@
-# Hi, I'm Nikhil Chaudhari
+
 PhD Candidate in Viterbi School of Engineering at the University of Southern California.
 
 I develop machine learning systems for medical imaging, generative AI, computer vision, and scientific computing. My research focuses on deep learning for neuroimaging, explainable AI, diffusion models, and large-scale GPU training.
 
-#I am currently seeking full-time opportunities as an:
-#- Applied Scientist
-#- Research Scientist
-#- Machine Learning Engineer
 
 ---
 
