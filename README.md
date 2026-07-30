@@ -33,7 +33,7 @@ Deep neural network for estimating biological brain age from structural MRI with
 🔗 Link available after publication
 
 ---
-## Open-source Brain Age Estimation
+## Brain Age Estimation
 
 Designed and released a reproducible **TensorFlow-based deep learning model** for brain age prediction from structural MRI, emphasizing generalizability across datasets and reproducible research.
 
@@ -52,6 +52,12 @@ Features include
 - experiment management
 - automated preprocessing
 - reproducible workflows
+
+### DICOM Anonymizer
+
+Open-source software for configurable DICOM de-identification with multiple anonymization levels.
+
+🔗 [GitHub Link](https://github.com/nikhilcusc/DICOMAnon)
 
 ---
 
@@ -75,15 +81,6 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 - Configured Linux GPU servers including NVIDIA A100 systems
 - Built reproducible research pipelines using PyTorch and TensorFlow
 
----
-
-## Open Source
-
-### DICOM Anonymizer
-
-Open-source software for configurable DICOM de-identification with multiple anonymization levels.
-
-🔗 [GitHub Link](https://github.com/nikhilcusc/DICOMAnon)
 
 ---
 
@@ -135,12 +132,15 @@ Open-source software for configurable DICOM de-identification with multiple anon
 1. **Deep learning maps local brain aging in relation to cognition across human adulthood**  
    *Proceedings of the National Academy of Sciences (PNAS), 2026* (In Press)
 
+1. **Interpretable Deep Learning Reveals Spatiotemporal MRI Features of Brain Aging That Align with Neurodegeneration**  
+*GeroScience, 2026*  [Paper 🔗](https://doi.org/10.1007/s11357-026-02112-2)
+
 1. **Anatomic Interpretability in Neuroimage Deep Learning: Saliency Approaches for Typical Aging and Traumatic Brain Injury**  
-   *Neuroinformatics, 2024*  [Paper](https://doi.org/10.1007/s12021-024-09694-2)
+   *Neuroinformatics, 2024*  [Paper 🔗](https://doi.org/10.1007/s12021-024-09694-2)
 
 1. **Controllable Generative Model for Brain Evolution** (*Equal Contribution*)  
    *ICASSP 2025 – IEEE International Conference on Acoustics, Speech and Signal Processing*
-   [Paper](https://doi.org/10.1109/ICASSP49660.2025.10888742)
+   [Paper 🔗](https://doi.org/10.1109/ICASSP49660.2025.10888742)
 
 
 📚 **View all publications:** [Google Scholar](https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en)
