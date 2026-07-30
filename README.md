@@ -1,5 +1,5 @@
 
-PhD Candidate in Viterbi School of Engineering at the University of Southern California.
+PhD Candidate at the USC Viterbi School of Engineering, University of Southern California.
 
 I develop machine learning systems for computer vision, medical imaging, xAI, and scientific computing. My current research focuses on deep learning for explainable (x)AI and neuroimaging.
 
