@@ -1,14 +1,12 @@
 # Hi, I'm Nikhil Chaudhari
-![Nikhil](/assets/img/profile_pic.jpg)
 PhD Candidate in Viterbi School of Engineering at the University of Southern California.
 
 I develop machine learning systems for medical imaging, generative AI, computer vision, and scientific computing. My research focuses on deep learning for neuroimaging, explainable AI, diffusion models, and large-scale GPU training.
 
-I am currently seeking full-time opportunities as an:
-
-- Applied Scientist
-- Research Scientist
-- Machine Learning Engineer
+#I am currently seeking full-time opportunities as an:
+#- Applied Scientist
+#- Research Scientist
+#- Machine Learning Engineer
 
 ---
 
@@ -129,12 +127,11 @@ Open-source software for configurable DICOM de-identification with multiple anon
 - First-author papers in PNAS, GeroScience, and Neuroinformatics
 - IEEE ISBI, ICASSP, OHBM, AAIC
 
-📚 Google Scholar:
-https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en
+📚 {Google Scholar](https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en)
 
 ---
 
 # Contact
 
 - Email: nikhilc [ at ] usc. edu 
-- LinkedIn: https://linkedin.com/in/nikhil-chaudhari95
+- [LinkedIn](https://linkedin.com/in/nikhil-chaudhari95)
