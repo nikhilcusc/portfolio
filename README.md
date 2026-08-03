@@ -30,7 +30,7 @@ Improved upon a global brain age prediction model by developing a deep learning�
 - Explainable AI
 - Large-scale GPU training
 
-🔗 Link available after publication
+🔗 [Demo Link](https://localba-usc.streamlit.app/)
 
 ---
 ## Brain Age Estimation
@@ -129,7 +129,7 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 ## Selected Publications
 
 1. **Deep learning maps local brain aging in relation to cognition across human adulthood**  
-   *Proceedings of the National Academy of Sciences (PNAS), 2026* (In Press)
+   *Proceedings of the National Academy of Sciences (PNAS), 2026* [Paper 🔗](https://www.pnas.org/doi/10.1073/pnas.2532233123)
 
 1. **Interpretable Deep Learning Reveals Spatiotemporal MRI Features of Brain Aging That Align with Neurodegeneration**  
 *GeroScience, 2026*  [Paper 🔗](https://doi.org/10.1007/s11357-026-02112-2)
@@ -143,10 +143,10 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 
 📚 **View all publications:** [Google Scholar](https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en)
-
+[ORCID](https://orcid.org/0000-0003-3048-6710)
 ---
 
 # Contact
 
-- Email: nikhilc [ at ] usc. edu 
+- Email: nikhilc [ at ] usc. edu, 
 - [LinkedIn](https://linkedin.com/in/nikhil-chaudhari95)
