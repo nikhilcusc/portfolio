@@ -1,5 +1,5 @@
 
-PhD Candidate in Viterbi School of Engineering at the University of Southern California.
+PhD Candidate at the USC Viterbi School of Engineering, University of Southern California.
 
 I develop machine learning systems for computer vision, medical imaging, xAI, and scientific computing. My current research focuses on deep learning for explainable (x)AI and neuroimaging.
 
@@ -42,16 +42,6 @@ Designed and released a **TensorFlow-based deep learning model** for global brai
 🔗 [GitHub](https://github.com/irimia-laboratory/USC_BA_estimator/tree/v2)
 
 ---
-## Medical Imaging Pipeline
-
-End-to-end pipeline for preprocessing, training, evaluation and inference on large neuroimaging datasets.
-
-Features include
-
-- distributed training
-- experiment management
-- automated preprocessing
-- reproducible workflows
 
 ## DICOM Anonymizer
 
