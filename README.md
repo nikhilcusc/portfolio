@@ -138,6 +138,12 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 ---
 
+# Downloads
+<a href="/assets/files/Resume.pdf" class="btn">Download Resume</a>
+
+<a href="/assets/files/CV.pdf" class="btn">Download CV</a>
+
+
 # Contact
 
 - Email: nikhilc [ at ] usc. edu
