@@ -1,4 +1,5 @@
-<img src="./assets/img/profile_pic.jpg" alt="My Profile Picture" width="400" style="border-radius: 50%;">
+<img src="./assets/img/profile_pic.jpg" alt="Profile Picture" width="250" style="display: block; margin: 0 auto; border-radius: 8px; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
 
 PhD Candidate at the USC Viterbi School of Engineering, University of Southern California.
 
@@ -135,7 +136,7 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 📚 **View all publications:** [Google Scholar](https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en)
 
-[ORCID](https://orcid.org/0000-0003-3048-6710)
+**Visit My ORCID** [ORCID](https://orcid.org/0000-0003-3048-6710)
 
 ---
 
