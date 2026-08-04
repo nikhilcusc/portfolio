@@ -138,5 +138,13 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 # Contact
 
-- Email: nikhilc [ at ] usc. edu, 
+- Email: nikhilc [ at ] usc. edu
+- Personal Email: 
+<script>
+  // Break your email into two parts to hide it from bots
+  var user = "nikhilcusc";
+  var domain = "gmail.com";
+  document.write('<a href="mailto:' + user + '@' + domain + '">' + user + '@' + domain + '</a>');
+</script>
+<noscript>Please enable JavaScript to view my email address.</noscript>
 - [LinkedIn](https://linkedin.com/in/nikhil-chaudhari95)
