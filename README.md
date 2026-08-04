@@ -133,18 +133,33 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 
 📚 **View all publications:** [Google Scholar](https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en)
+
 [ORCID](https://orcid.org/0000-0003-3048-6710)
+
 ---
 
 # Contact
 
 - Email: nikhilc [ at ] usc. edu
 - Personal Email: 
+
+<div id="email-container">
+  <!-- Using an 'a' tag with class="btn" perfectly matches the Tactile theme -->
+  <a href="javascript:void(0)" class="btn" onclick="revealEmail()">
+    Reveal personal email
+  </a>
+</div>
+
 <script>
-  // Break your email into two parts to hide it from bots
-  var user = "nikhilcusc";
-  var domain = "gmail.com";
-  document.write('<a href="mailto:' + user + '@' + domain + '">' + user + '@' + domain + '</a>');
+  function revealEmail() {
+    var encodedEmail = "bmlraGlsY3VzY0BnbWFpbC5jb20="; 
+    var decodedEmail = atob(encodedEmail);
+    var container = document.getElementById("email-container");
+    container.innerHTML = '<a href="mailto:' + decodedEmail + '">' + decodedEmail + '</a>';
+  }
 </script>
-<noscript>Please enable JavaScript to view my email address.</noscript>
+<noscript>Please enable JavaScript to view my email.</noscript>
+
+
+
 - [LinkedIn](https://linkedin.com/in/nikhil-chaudhari95)
