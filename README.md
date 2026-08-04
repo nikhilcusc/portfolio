@@ -1,4 +1,4 @@
-<img src="./profile.jpg" alt="My Profile Picture" width="200" style="border-radius: 50%;">
+<img src="./assets/img/profile_pic.jpg" alt="My Profile Picture" width="400" style="border-radius: 50%;">
 
 PhD Candidate at the USC Viterbi School of Engineering, University of Southern California.
 
