@@ -1,9 +1,6 @@
 <img src="./assets/img/profile_pic.jpg" alt="Profile Picture" width="250" style="display: block; margin: 0 auto; border-radius: 8px; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-
-PhD Candidate at the USC Viterbi School of Engineering, University of Southern California.
-
-I develop machine learning systems for computer vision, medical imaging, xAI, and scientific computing. My current research focuses on deep learning for explainable (x)AI and neuroimaging.
+I develop AI-powered solutions for computer vision and medical imaging, specializing in explainable AI (XAI) and deep learning. My work focuses on building interpretable models for neuroimaging and healthcare applications.
 
 
 ---
@@ -136,7 +133,7 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 📚 **View all publications:** [Google Scholar](https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en)
 
-**Visit My ORCID** [ORCID](https://orcid.org/0000-0003-3048-6710)
+**Visit my ORCID** [ORCID](https://orcid.org/0000-0003-3048-6710)
 
 ---
 
@@ -149,7 +146,7 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 # Contact
 
 - Email: nikhilc [ at ] usc. edu
-- Personal Email: 
+- Personal email: 
 
 <div id="email-container">
   <!-- Using an 'a' tag with class="btn" perfectly matches the Tactile theme -->
