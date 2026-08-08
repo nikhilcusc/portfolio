@@ -17,7 +17,6 @@ I develop AI-powered solutions for computer vision and medical imaging, speciali
 
 # Featured Projects
 
-
 ## Local Brain Age Prediction
 
 Improved upon a global brain age prediction model by developing a deep learning–based local brain age estimation framework that predicts regional biological brain age from structural MRI, offering more interpretable and sensitive assessment of localized brain aging.
@@ -29,7 +28,24 @@ Improved upon a global brain age prediction model by developing a deep learning�
 - Explainable AI
 - Large-scale GPU training
 
-🔗 [Demo Link](https://localba-usc.streamlit.app/)
+🔗 [Demo Link](https://usclocalba.streamlit.app/)
+
+---
+
+## Personal AI Cloud: Secure Remote Access to Local LLM
+
+- As enterprises prioritize data privacy via local LLMs, accessing desktop hardware remotely remains a major friction point.
+- Built a full-stack web application to securely query a locally hosted **Qwen-2.5B** model on my Nvidia 1050 GTX from any smartphone anywhere in the world.
+- Integrated **zrok2** for zero-trust network tunneling, implemented secure **user authentication**, and built a responsive UI for low-latency mobile interactions.
+- End-to-end execution across machine learning infrastructure, network security, and product-driven web development.
+
+**Tech:** Qwen-2.5B, zrok2, Local LLMs, Zero-Trust Tunneling, GPU Acceleration, Full-Stack Development, Authentication & Security, AI Infrastructure
+
+
+![Demo showing secure remote access to local Qwen-2.5 model via smartphone](assets/gifs/Video2026.gif)
+
+The credentials have been changed to prevent unauthorized usage. To access the demo, please contact me directly.
+**[Live Demo / Contact for Access](#contact)**
 
 ---
 ## Brain Age Estimation
@@ -115,6 +131,7 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 - 20+ peer-reviewed publications
 - First-author papers in PNAS, GeroScience.
 - IEEE ISBI, ICASSP, OHBM, AAIC
+
 ## Selected Publications
 
 1. **Deep learning maps local brain aging in relation to cognition across human adulthood**  
@@ -142,19 +159,17 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 
 <a href="/assets/files/CV.pdf" class="btn">Download CV</a>
 
+---
 
 # Contact
 
 - Email: nikhilc [ at ] usc. edu
-- Personal email: 
-
-<div id="email-container">
+- Personal email:  <div id="email-container">
   <!-- Using an 'a' tag with class="btn" perfectly matches the Tactile theme -->
   <a href="javascript:void(0)" class="btn" onclick="revealEmail()">
     Reveal personal email
   </a>
 </div>
-
 <script>
   function revealEmail() {
     var encodedEmail = "bmlraGlsY3VzY0BnbWFpbC5jb20="; 
@@ -164,7 +179,5 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
   }
 </script>
 <noscript>Please enable JavaScript to view my email.</noscript>
-
-
 
 - [LinkedIn](https://linkedin.com/in/nikhil-chaudhari95)
