@@ -28,7 +28,7 @@ Improved upon a global brain age prediction model by developing a deep learning�
 - Explainable AI
 - Large-scale GPU training
 
-🔗 [Demo Link](https://usclocalba.streamlit.app/)
+🔗 [Demo](https://usclocalba.streamlit.app/)
 
 ---
 
@@ -62,7 +62,7 @@ Designed and released a **TensorFlow-based deep learning model** for global brai
 
 Open-source software for configurable DICOM de-identification with multiple anonymization levels.
 
-🔗 [GitHub Link](https://github.com/nikhilcusc/DICOMAnon)
+🔗 [GitHub](https://github.com/nikhilcusc/DICOMAnon)
 
 ---
 
