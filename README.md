@@ -28,7 +28,9 @@ Improved upon a global brain age prediction model by developing a deep learning�
 - Explainable AI
 - Large-scale GPU training
 
-🔗 [Demo](https://usclocalba.streamlit.app/)
+🔗 [Demo](https://usclocalba.streamlit.app/) | 🔗 [GitHub](https://github.com/irimia-laboratory/USC_LBA_estimator/) | 🔗 [🐳 Docker](ghcr.io/nikhilcusc/localba:latest)  
+
+
 
 ---
 
