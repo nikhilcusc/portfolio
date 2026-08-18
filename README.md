@@ -17,6 +17,20 @@ I develop AI-powered solutions for computer vision and medical imaging, speciali
 
 # Featured Projects
 
+## Stanford Cars Classification & Model Explainability
+
+Developed an end-to-end PyTorch workflow for training a ResNet50 classifier on the 196-class Stanford Cars dataset. Implemented multiple explainable AI (xAI) tools to analyze fine-grained classification, comparing gradient-based methods (Vanilla Saliency, Grad-CAM, Guided Backprop, Integrated Gradients) with model-agnostic techniques (LIME, SHAP). Designed an interactive Streamlit application for real-time inference and dynamic saliency map visualization.
+
+**Highlights**
+
+- PyTorch & ResNet50 architecture
+- Explainable AI (xAI) and feature attribution
+- Saliency mapping (Grad-CAM, Integrated Gradients)
+- Interactive Streamlit dashboard
+
+🔗 [GitHub](https://github.com/nikhilcusc/StanfordCarDataset/) | 🔗 [Live Demo](https://salientstanfordcars.streamlit.app/)
+
+
 ## Local Brain Age Prediction
 
 Improved upon a global brain age prediction model by developing a deep learning–based local brain age estimation framework that predicts regional biological brain age from structural MRI, offering more interpretable and sensitive assessment of localized brain aging.
@@ -31,8 +45,6 @@ Improved upon a global brain age prediction model by developing a deep learning�
 🔗 [Demo](https://usclocalba.streamlit.app/) | 🔗 [GitHub](https://github.com/irimia-laboratory/USC_LBA_estimator/) | 🔗 [🐳 Docker](ghcr.io/nikhilcusc/localba:latest)  
 
 
-
----
 
 ## Personal AI Cloud: Secure Remote Access to Local LLM
 
