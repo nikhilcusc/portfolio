@@ -178,7 +178,8 @@ Working on deep learning methods for brain aging, neurodegeneration, and medical
 # Contact
 
 - Email: nikhilc [ at ] usc. edu
-- Personal email:  <div id="email-container">
+- Personal email:  
+<div id="email-container">
   <!-- Using an 'a' tag with class="btn" perfectly matches the Tactile theme -->
   <a href="javascript:void(0)" class="btn" onclick="revealEmail()">
     Reveal personal email
