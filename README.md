@@ -4,13 +4,21 @@
 
 <div align="center">
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-chaudhari95)
+  <!-- Links with Badges -->
+  <a href="https://scholar.google.com/citations?user=0HvizQ0AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://linkedin.com/in/nikhil-chaudhari95">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  <br>
+
+  <!-- Badges without Links -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 
 </div>
 
@@ -18,7 +26,7 @@ I develop AI-powered solutions for computer vision and medical imaging, speciali
 
 ---
 
-## About Me
+# About Me
 
 - 🎓 PhD Candidate, University of Southern California 
 - 🧠 8+ years of research experience spanning deep learning, computer vision, and medical imaging
@@ -238,24 +246,22 @@ Worked on data processing and analytics using Elasticsearch and Kibana.
 
 **Impact:** Enabled structured analysis of social media engagement through scalable data aggregation and visualization.
 
-
 ---
 
 # Technical Skills
 
-### Deep Learning & Generative AI: 
+## Deep Learning & Generative AI: 
 PyTorch, TensorFlow, CUDA, Diffusion Models, ControlNet, Transformers, Explainable AI
 
 
-### MLOps & Infrastructure: 
+## MLOps & Infrastructure: 
 Docker, AWS (EC2/S3), Linux GPU clusters (A100), GitHub Actions, Git
 
 
-### Programming & Data: 
+## Programming & Data: 
 Python, C++, MATLAB, SQL, NumPy, pandas, Elasticsearch
 
 ---
-
 
 # Publications
 
@@ -294,14 +300,11 @@ Python, C++, MATLAB, SQL, NumPy, pandas, Elasticsearch
 
 # Contact
 
+<br>
+
 - Email: nikhilc [ at ] usc. edu
-- Personal email:  
-<div id="email-container">
-  <!-- Using an 'a' tag with class="btn" perfectly matches the Tactile theme -->
-  <a href="javascript:void(0)" class="btn" onclick="revealEmail()">
-    Reveal personal email
-  </a>
-</div>
+
+- Personal email: <span id="email-container"><a href="javascript:void(0)" class="btn" onclick="revealEmail()">Reveal personal email</a></span>
 <script>
   function revealEmail() {
     var encodedEmail = "bmlraGlsY3VzY0BnbWFpbC5jb20="; 
@@ -310,6 +313,5 @@ Python, C++, MATLAB, SQL, NumPy, pandas, Elasticsearch
     container.innerHTML = '<a href="mailto:' + decodedEmail + '">' + decodedEmail + '</a>';
   }
 </script>
-<noscript>Please enable JavaScript to view my email.</noscript>
-
+<noscript> <span style="font-size: small;">Please enable JavaScript to view my email.</span> </noscript>
 - [LinkedIn](https://linkedin.com/in/nikhil-chaudhari95)
