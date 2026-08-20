@@ -36,6 +36,21 @@ I develop AI-powered solutions for computer vision and medical imaging, speciali
 
 ---
 
+# Technical Skills
+
+## Deep Learning & Generative AI: 
+PyTorch, TensorFlow, CUDA, Diffusion Models, ControlNet, Transformers, Explainable AI
+
+
+## MLOps & Infrastructure: 
+Docker, AWS (EC2/S3), Linux GPU clusters (A100), GitHub Actions, Git
+
+
+## Programming & Data: 
+Python, C++, MATLAB, SQL, NumPy, pandas, Elasticsearch
+
+---
+
 # Featured Projects
 
 ## Stanford Cars Classification & Model Explainability
@@ -245,21 +260,6 @@ Worked on data processing and analytics using Elasticsearch and Kibana.
 **Tech:** Elasticsearch, Kibana, JSON, Data Analytics
 
 **Impact:** Enabled structured analysis of social media engagement through scalable data aggregation and visualization.
-
----
-
-# Technical Skills
-
-## Deep Learning & Generative AI: 
-PyTorch, TensorFlow, CUDA, Diffusion Models, ControlNet, Transformers, Explainable AI
-
-
-## MLOps & Infrastructure: 
-Docker, AWS (EC2/S3), Linux GPU clusters (A100), GitHub Actions, Git
-
-
-## Programming & Data: 
-Python, C++, MATLAB, SQL, NumPy, pandas, Elasticsearch
 
 ---
 
