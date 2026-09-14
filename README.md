@@ -65,6 +65,12 @@ An end-to-end computer vision pipeline designed to intelligently parse through u
 - Model Development & Inference: Integrated YOLO object detection to classify high-variance frames (pedestrians, vehicles) in real-time.
 - Deployment & Monitoring: Deployed an interactive Streamlit dashboard for end-users to visualize analytics and review flagged security footage, achieving 4.2x real-time processing speed.
 
+<img src="./assets/img/graph_detections_timestamps.png" alt="Graph showing change score peaks and YOLO object detections" width="600" style="display: block; margin: 0 auto; border-radius: 8px; border: 4px solid #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+*Figure: The pipeline drastically reduces computational load by only running YOLO object detection on frames where the heuristic "change score" peaks, filtering out hours of static footage.*
+
+**Tech:** OpenCV, YOLOv8, PyTorch, Streamlit, Video Processing, Object Detection, ETL Pipelines Python.
+
 🔗 [Live Demo](https://autovidwatch.streamlit.app/) | 🔗 [GitHub](https://github.com/nikhilcusc/videoAnalysis)
 
 **Impact**
@@ -79,9 +85,10 @@ Developed an end-to-end PyTorch workflow for training a ResNet50 classifier on t
 **Highlights**
 
 - PyTorch & ResNet50 architecture
-- Explainable AI (xAI) and feature attribution
 - Saliency mapping (Grad-CAM, Integrated Gradients)
 - Interactive Streamlit dashboard
+
+**Tech:** PyTorch, ResNet50, Explainable AI, Saliency Mapping, Streamlit, Image Classification
 
 🔗 [Live Demo](https://salientstanfordcars.streamlit.app/) | 🔗 [GitHub](https://github.com/nikhilcusc/StanfordCarDataset/)
 
@@ -283,13 +290,15 @@ Worked on data processing and analytics using Elasticsearch and Kibana.
 # Publications
 
 - 20+ peer-reviewed publications
-- First-author papers in PNAS, GeroScience.
-- IEEE ISBI, ICASSP, OHBM, AAIC
+- First-author papers in PNAS, GeroScience, IEEE ISBI, ICASSP, OHBM, AAIC
 
 ## Selected Publications
 
 1. **Deep learning maps local brain aging in relation to cognition across human adulthood**  
    *Proceedings of the National Academy of Sciences (PNAS), 2026* [Paper 🔗](https://www.pnas.org/doi/10.1073/pnas.2532233123)
+
+1. **Synthesizing Brain Magnetic Resonance Images for Myelin Assessment**  
+   *2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)* [Paper 🔗](https://drive.google.com/file/d/1AgjAMP4FaLzwH2OQjyfIBVBov6qXbbzD/view)
 
 1. **Interpretable Deep Learning Reveals Spatiotemporal MRI Features of Brain Aging That Align with Neurodegeneration**  
 *GeroScience, 2026*  [Paper 🔗](https://doi.org/10.1007/s11357-026-02112-2)
