@@ -30,20 +30,23 @@ I develop AI-powered solutions for computer vision and medical imaging, speciali
 
 - 🎓 PhD Candidate, University of Southern California 
 - 🧠 8+ years of research experience spanning deep learning, computer vision, and medical imaging
-- 📄 First-author publications in PNAS, GeroScience and other leading venues
-- ☁️ Experience building ML pipelines on AWS, Linux GPU clusters, and NVIDIA A100 hardware
+- 📄 First-author publications in PNAS, ISBI and other leading venues
+- ☁️ End-to-End ML Lifecycle: Proven ability to own projects from data curation and ETL pipelines to large-scale distributed training on AWS/A100 clusters, and final deployment via Docker and Streamlit web apps.
 - 🔬 Interested in Generative AI, Computer Vision, Foundation Models, Medical AI, and Scientific Machine Learning
 
 ---
 
 # Technical Skills
 
+## Computer Vision & Image Processing: 
+OpenCV, Object Detection (YOLO), Image Classification (ResNet, CNNs), Medical Image Analysis (MRI/CT), 3D / Semantic Segmentation, Saliency Mapping, Scikit-Image
+
 ## Deep Learning & Generative AI: 
 PyTorch, TensorFlow, CUDA, Diffusion Models, ControlNet, Transformers, Explainable AI
 
 
 ## MLOps & Infrastructure: 
-Docker, AWS (EC2/S3), Linux GPU clusters (A100), GitHub Actions, Git
+Docker, AWS (EC2/S3), Linux GPU clusters (A100), Model Containerization, Streamlit, GitHub Actions, Git
 
 
 ## Programming & Data: 
@@ -52,6 +55,22 @@ Python, C++, MATLAB, SQL, NumPy, pandas, Elasticsearch
 ---
 
 # Featured Projects
+
+## Dashcam Auto-Watcher: Automated Video Analysis Pipeline
+
+An end-to-end computer vision pipeline designed to intelligently parse through unstructured dashcam and surveillance video to automatically isolate and classify significant events. 
+
+**Highlights**
+- Data Engineering: Engineered a fast pixel-differencing algorithm using OpenCV to filter out static frames, drastically reducing compute overhead. Built an automated ETL pipeline to aggregate event metadata.
+- Model Development & Inference: Integrated YOLO object detection to classify high-variance frames (pedestrians, vehicles) in real-time.
+- Deployment & Monitoring: Deployed an interactive Streamlit dashboard for end-users to visualize analytics and review flagged security footage, achieving 4.2x real-time processing speed.
+
+🔗 [Live Demo](https://autovidwatch.streamlit.app/) | 🔗 [GitHub](https://github.com/nikhilcusc/videoAnalysis)
+
+**Impact**
+Manually reviewing security footage is a slow, error-prone process. This tool provides individuals and small businesses with an accessible way to automatically extract insights from their cameras (e.g., tracking deliveries or monitoring traffic). By processing video at **4.2x real-time speed**, it turns passive recording into an active monitoring system and eliminates the friction of manual scrubbing.
+
+---
 
 ## Stanford Cars Classification & Model Explainability
 
@@ -69,6 +88,7 @@ Developed an end-to-end PyTorch workflow for training a ResNet50 classifier on t
 **Impact:** Practical demonstration of how explainable AI techniques can enhance model interpretability. Aids researchers and practitioners in understanding model decisions in fine-grained image classification tasks.
 
 ---
+
 
 ## Personal AI Cloud: Secure Remote Access to Local LLM
 
@@ -98,7 +118,7 @@ Note: The credentials have been changed to prevent unauthorized usage. To access
 
 🔗 [GitHub](https://github.com/nikhilcusc/DICOMAnon)
 
-**Impact:** This tool has the potential to be widely adopted in medical imaging research to ensure patient privacy while enabling data sharing. It supports compliance with HIPAA and other privacy regulations, facilitating collaborative research without compromising sensitive information.
+**Impact:** This tool has potential to be widely adopted in medical imaging research to ensure patient privacy while enabling data sharing. It supports compliance with HIPAA and other privacy regulations, facilitating collaborative research without compromising sensitive information.
 
 ---
 
@@ -132,8 +152,7 @@ Progressed from developing neuroimaging pipelines and supporting research workfl
 ### Selected Projects
 
 #### Global Brain Age Estimation
-
-- Developed and released a TensorFlow-based deep learning model to estimate biological brain age from structural MRI.
+- Pioneered a generalizable deep learning framework to estimate biological brain age, providing researchers with a scalable tool for early detection of neurodegenerative conditions.
 - Produces a single, whole-brain age estimate, representing the overall biological age of the brain.
 - Enables comparison between predicted brain age and chronological age to identify accelerated or delayed brain aging.
 - Designed with an emphasis on generalizability across diverse populations.
@@ -148,16 +167,14 @@ Progressed from developing neuroimaging pipelines and supporting research workfl
 
 Improved upon the global brain age prediction model by developing a deep learning–based local brain age estimation framework that predicts regional biological brain age from structural MRI, offering more interpretable and sensitive assessment of localized brain aging. A docker image was containerized and published to GHCR.
 
-
 **Highlights**
 
-- Autoencoder models
-- MRI preprocessing
-- Explainable AI
+- MRI data preprocessing & Autoencoder models
+- Explainable AI feature attribution
 - Large-scale GPU training
+- MLOps & Deployment: Containerized the full inference pipeline into a Docker image, published to GHCR for easy cross-platform reproducibility.
 
 🔗 [Demo](https://usclocalba.streamlit.app/) | 🔗 [GitHub](https://github.com/irimia-laboratory/USC_LBA_estimator/) | 🔗 [🐳 Docker](https://ghcr.io/nikhilcusc/localba:latest)  
-
 
 **Impact:** This local brain age prediction model has been applied in research to identify early signs of neurodegeneration and cognitive decline. It has the potential to enable targeted interventions and personalized healthcare strategies.
 
