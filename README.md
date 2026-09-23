@@ -96,7 +96,6 @@ Developed an end-to-end PyTorch workflow for training a ResNet50 classifier on t
 
 ---
 
-
 ## Personal AI Cloud: Secure Remote Access to Local LLM
 
 - As everyday users (and enterprises) prioritize data privacy via local LLMs, accessing desktop hardware remotely remains a major friction point.
@@ -257,7 +256,7 @@ North Plainfield, New Jersey, USA
 
 Developed a **Business Process Management (BPM)** application using Pega Rules Process Commander (PRPC).
 
-### Selected Contributions
+### Highlights
 
 - Modeled and automated business processes using Pega PRPC.
 - Developed workflows to execute and control business activities.
@@ -275,7 +274,7 @@ Nagpur, Maharashtra, India
 
 Worked on data processing and analytics using Elasticsearch and Kibana.
 
-### Selected Contributions
+### Highlights
 
 - Analyzed Twitter data to calculate user engagement.
 - Built data transformations and aggregations using Elasticsearch.
