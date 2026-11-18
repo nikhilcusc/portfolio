@@ -74,19 +74,19 @@ An end-to-end computer vision pipeline designed to intelligently parse through u
 🔗 [Live Demo](https://autovidwatch.streamlit.app/) | 🔗 [GitHub](https://github.com/nikhilcusc/videoAnalysis)
 
 **Impact**
-Manually reviewing security footage is a slow, error-prone process. This tool provides individuals and small businesses with an accessible way to automatically extract insights from their cameras (e.g., tracking deliveries or monitoring traffic). By processing video at **4.2x real-time speed**, it turns passive recording into an active monitoring system and eliminates the friction of manual scrubbing.
+Eliminates manual scrubbing of security footage for small businesses and camera owners by converting hours of passive surveillance into searchable, structured activity events.
 
 ---
 
 ## Stanford Cars Classification & Model Explainability
 
-Developed an end-to-end PyTorch workflow for training a ResNet50 classifier on the 196-class Stanford Cars dataset. Implemented multiple explainable AI (xAI) tools to analyze fine-grained classification, comparing gradient-based methods (Vanilla Saliency, Grad-CAM, Guided Backprop, Integrated Gradients) with model-agnostic techniques (LIME, SHAP). Designed an interactive Streamlit application for real-time inference and dynamic saliency map visualization.
+Developed an end-to-end PyTorch workflow for training a ResNet50 classifier on the 196-class Stanford Cars dataset.
 
 **Highlights**
 
-- PyTorch & ResNet50 architecture
-- Saliency mapping (Grad-CAM, Integrated Gradients)
-- Interactive Streamlit dashboard
+- Fine-grained classification benchmark across 196 car classes using PyTorch ResNet50.
+- Comparative evaluation of gradient-based (Grad-CAM, Integrated Gradients) vs. model-agnostic (LIME, SHAP) attribution methods.
+- Interactive Streamlit interface providing side-by-side visual explanations for model predictions.
 
 **Tech:** PyTorch, ResNet50, Explainable AI, Saliency Mapping, Streamlit, Image Classification
 
